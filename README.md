@@ -2,6 +2,9 @@
 
 This is a simple Tic Tac Toe game created using React. You can play the game online by visiting [Tic Tac Toe Game](https://webofdeva-tictactoe.netlify.app).
 
+<img width="933" alt="image" src="https://github.com/Devadharshini-Nagarajan/TicTacToe/assets/113491692/5f452918-3a4d-45db-852e-28d3fecab87e">
+
+
 ## How to Play
 
 1. Open the game in your web browser.
